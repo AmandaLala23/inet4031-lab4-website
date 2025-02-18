@@ -2,15 +2,15 @@
 
 ## Instructions, files, code for Lab 6.
 
-What if you aren't nearby the computer you need to work on?
-
-Up until this point, our Lab activities have been accomplished by doing them on our laptops.
-
 In this activity we explore the concept of "servers."  Which typically aren't located where we are.
 
-We have to connect to them remotely
+We would then have to connect to them remotely.
 
-This Lab explores that concept.
+The purpose of this repository is knowing how to clone an existing repository into ones account on a server.
+
+Then going into one of the files and making updates within that said file.
+
+
 
 
 
